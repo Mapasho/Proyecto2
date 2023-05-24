@@ -1,4 +1,4 @@
-# Readme del proyecto de películas
+# Readme de Proyecto Accidentes de Aviones
 ## Descripción:
 Este proyecto se enfoca en análisis de datos relacionados con accidentes de avion.
 
